@@ -1,0 +1,41 @@
+
+/* Style général */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 62.5%;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+header {
+	background-color: #fffd15;
+	height: 100vh;
+}
+
+h1 {
+	color: #7a306c;
+	font-family: 'raleway', sans-serif;
+	font-size: 4rem;
+	font-weight: bold;
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+/* Menu */
+
+nav {
+  background-color: #fffd15;
+}
+
+#tagline{
+	padding-top: 100px;
+}
